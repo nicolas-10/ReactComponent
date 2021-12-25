@@ -1,2 +1,2 @@
-# ReactComponent
+# reactCourses
 Created with CodeSandbox
